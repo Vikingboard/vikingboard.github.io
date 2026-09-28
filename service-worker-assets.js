@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Grq4VJ0J-rPg5ZEUo",
+  "version": "RXBVIFmK-efb83GKQ",
   "assets": [
     {
       "hash": "sha256-GBLrRiFw2ndDlWGpkX1ZKA2z9uMpcvxHpeuUtmS5Pto=",
@@ -190,28 +190,28 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.xr3f3zqnpw.wasm"
     },
     {
-      "hash": "sha256-22DMONXXhgDach2tY68OD58H9OmJTO/cVGowu8g1ULQ=",
-      "url": "_framework/ValheimAchievementTracker.Web.h1r5vmj7df.wasm"
+      "hash": "sha256-KxIp1ONq/mVLHWIVFx8jBPspQAw4HPDgDKxH9P4UOs0=",
+      "url": "_framework/ValheimAchievementTracker.Web.rs2gkr0fkd.wasm"
     },
     {
-      "hash": "sha256-0tSxRNSX0Q4BucDSR+gQ4ii7pLufMo6OG6llaMgk574=",
-      "url": "_framework/ValheimSave.Core.63e6oku21g.wasm"
+      "hash": "sha256-f1dDloInVMnyfg7tfYNq7beh8Z16eMW864i+X1gKIhs=",
+      "url": "_framework/ValheimSave.Core.57oc7n0m2k.wasm"
     },
     {
       "hash": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
       "url": "_framework/blazor.webassembly.w3qd1tpl0e.js"
     },
     {
-      "hash": "sha256-/vNaFt+6rngvwQVzeoC7xwAKhxa29HEPm+rqa6imfQo=",
-      "url": "_framework/dotnet.6yz0iby7ks.js"
-    },
-    {
-      "hash": "sha256-scqGCoo/tWBrqL3cKLjb31QeSWBNXi6bkoDxtOfA3Vo=",
-      "url": "_framework/dotnet.native.1wf101uh5o.wasm"
+      "hash": "sha256-PWaRd6ZgiHkiXOK//c6iS+HAhHKHQdJVmwl6+80z/Y0=",
+      "url": "_framework/dotnet.hnj7v6zieh.js"
     },
     {
       "hash": "sha256-XI7FkEQDKfAtuaDKSh/yPSF+XQ5T+cgwiaVCqocYWo4=",
       "url": "_framework/dotnet.native.co33dnjtuq.js"
+    },
+    {
+      "hash": "sha256-dzmZEMO3xJoWRmKE6cYEPAWWFyVBwsd1/4Op96XbmhU=",
+      "url": "_framework/dotnet.native.fawsrnf02u.wasm"
     },
     {
       "hash": "sha256-QbnqrZGHtGq7wudS17/AYEPpH9JkphrsyVllD6JHmds=",
@@ -570,7 +570,7 @@ self.assetsManifest = {
       "url": "icon.svg"
     },
     {
-      "hash": "sha256-rPg5ZEUojtDZpdpMeXVbv6yBVCe8HuMo6iOCGT1rqU8=",
+      "hash": "sha256-efb83GKQ/JdCVIiorTbDGJ+jvUcxYjJv6am02PU4ETc=",
       "url": "index.html"
     },
     {
