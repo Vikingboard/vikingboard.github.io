@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "RXBVIFmK-efb83GKQ",
+  "version": "bwpZhbXU-5nj5SJES",
   "assets": [
     {
       "hash": "sha256-GBLrRiFw2ndDlWGpkX1ZKA2z9uMpcvxHpeuUtmS5Pto=",
@@ -190,32 +190,32 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.xr3f3zqnpw.wasm"
     },
     {
-      "hash": "sha256-KxIp1ONq/mVLHWIVFx8jBPspQAw4HPDgDKxH9P4UOs0=",
-      "url": "_framework/ValheimAchievementTracker.Web.rs2gkr0fkd.wasm"
+      "hash": "sha256-enjhHi0Ml4Jk55Utz0nxjYVhdS3XjbNMDvBj/AGLydM=",
+      "url": "_framework/ValheimAchievementTracker.Web.qwewlkeqip.wasm"
     },
     {
-      "hash": "sha256-f1dDloInVMnyfg7tfYNq7beh8Z16eMW864i+X1gKIhs=",
-      "url": "_framework/ValheimSave.Core.57oc7n0m2k.wasm"
+      "hash": "sha256-5uRVMlLH+so3+0bRyOC1Ltm/zY7hYTpen19QMbNjL/w=",
+      "url": "_framework/ValheimSave.Core.a3jtrpek7v.wasm"
     },
     {
       "hash": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
       "url": "_framework/blazor.webassembly.w3qd1tpl0e.js"
     },
     {
-      "hash": "sha256-PWaRd6ZgiHkiXOK//c6iS+HAhHKHQdJVmwl6+80z/Y0=",
-      "url": "_framework/dotnet.hnj7v6zieh.js"
-    },
-    {
       "hash": "sha256-XI7FkEQDKfAtuaDKSh/yPSF+XQ5T+cgwiaVCqocYWo4=",
       "url": "_framework/dotnet.native.co33dnjtuq.js"
     },
     {
-      "hash": "sha256-dzmZEMO3xJoWRmKE6cYEPAWWFyVBwsd1/4Op96XbmhU=",
-      "url": "_framework/dotnet.native.fawsrnf02u.wasm"
+      "hash": "sha256-kXx1BNTQTdeEL/TbeyJDEVoxVg5S0OENORi0cyvAc5k=",
+      "url": "_framework/dotnet.native.fsrre4eaoz.wasm"
     },
     {
       "hash": "sha256-QbnqrZGHtGq7wudS17/AYEPpH9JkphrsyVllD6JHmds=",
       "url": "_framework/dotnet.runtime.v06hirbjsv.js"
+    },
+    {
+      "hash": "sha256-SOV46b8WDZXJAFjRYcFcANYEpffP8iL9jSvKuGsLiFY=",
+      "url": "_framework/dotnet.snyh5nf6mu.js"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -498,7 +498,139 @@ self.assetsManifest = {
       "url": "data/1.0.16/loc/ukrainian.json"
     },
     {
-      "hash": "sha256-FXieCDNs4e4LD342dW8gfwbF+4uzxWBpfP0LhKnVzMM=",
+      "hash": "sha256-Vyazs7aX/d7mrYNlV1K3Dd0Cp/TFmlOABkq35rKLIsA=",
+      "url": "data/1.0.17/gamedata.json"
+    },
+    {
+      "hash": "sha256-1eIXszNCWYmFpwy2rs22CaSRkbk2BoFWD6uBoMkymy8=",
+      "url": "data/1.0.17/loc/abenaki.json"
+    },
+    {
+      "hash": "sha256-dKc1Z7KZ2kw3qd5cKqjSLHcCLD4hgbu5IbC7T/DFf0I=",
+      "url": "data/1.0.17/loc/bulgarian.json"
+    },
+    {
+      "hash": "sha256-/AhlgeNVh1HN0RchmxF/zDmFztlX91Aq5tNjfqKkS80=",
+      "url": "data/1.0.17/loc/chinese.json"
+    },
+    {
+      "hash": "sha256-bdfHaYUeYHB4SrM7//U6xEhP9Nqi9+MRU8EgnIaDpE0=",
+      "url": "data/1.0.17/loc/chinese_trad.json"
+    },
+    {
+      "hash": "sha256-/gppRbkjrIgQZRQPQGDxNL5EKIsD3G4TsFCEn8JtLWw=",
+      "url": "data/1.0.17/loc/croatian.json"
+    },
+    {
+      "hash": "sha256-kL23umwk0LxM+qTwjG6zp/hEN3NEBBy4L7NLmpP0peI=",
+      "url": "data/1.0.17/loc/czech.json"
+    },
+    {
+      "hash": "sha256-5OnW7L+DC/eQCtFD+vlZ7qoVQN4e3Op+Oab69doGZpw=",
+      "url": "data/1.0.17/loc/danish.json"
+    },
+    {
+      "hash": "sha256-/VW9c23kjZfsPNIk0VxUyXoAEpNj4NfxfpwyBQEJfjg=",
+      "url": "data/1.0.17/loc/dutch.json"
+    },
+    {
+      "hash": "sha256-YxEEwp2qaGw9U5jeOsyt43CXFNKP+ABINLe3IK0bw7k=",
+      "url": "data/1.0.17/loc/english.json"
+    },
+    {
+      "hash": "sha256-0HcPlQ0uIKDN7la5OUv9Xh5OSDA2Ovj8p8pybpC9HF4=",
+      "url": "data/1.0.17/loc/finnish.json"
+    },
+    {
+      "hash": "sha256-5GZUVVjm2VcP8PUsnruTuY3yKomzbAiYw5AsyAqCb80=",
+      "url": "data/1.0.17/loc/french.json"
+    },
+    {
+      "hash": "sha256-laEGDGYd7taE92tV/UzluOlj0NnN1SH+P4h68rPTKyY=",
+      "url": "data/1.0.17/loc/georgian.json"
+    },
+    {
+      "hash": "sha256-l8P9x9EyGJcM4LHPLnpvxnBVQYpqvPXp2pTk41zfREw=",
+      "url": "data/1.0.17/loc/german.json"
+    },
+    {
+      "hash": "sha256-7TOEIQhg9w9XIJimaoijxBrTavlCMvRWi9FHzWPcgjc=",
+      "url": "data/1.0.17/loc/hungarian.json"
+    },
+    {
+      "hash": "sha256-maBJPjl4DFZVtBOxsDELlhJeXJiX1dvhvc8zOESTtaI=",
+      "url": "data/1.0.17/loc/icelandic.json"
+    },
+    {
+      "hash": "sha256-1Wnud2PWbECfDFT0Dxhl5WP8T+0I4dcu9BWGcKj6WJU=",
+      "url": "data/1.0.17/loc/italian.json"
+    },
+    {
+      "hash": "sha256-MZ3d1lHWSCqlqsnMhKKhRjbgLwfqKt2e6n4BDT60P+Y=",
+      "url": "data/1.0.17/loc/japanese.json"
+    },
+    {
+      "hash": "sha256-2xN4tQlvlDYn9IXnAObO1K+z26MdlOe9R3GAeAARLI0=",
+      "url": "data/1.0.17/loc/korean.json"
+    },
+    {
+      "hash": "sha256-eeoF/WpJK9+/QrTOCzIdW885AZVOt2knJNplu0276z0=",
+      "url": "data/1.0.17/loc/latvian.json"
+    },
+    {
+      "hash": "sha256-5mshmnmWhNYtzmkmHWqrJMoJezfZOM4V0wZSOsozCZo=",
+      "url": "data/1.0.17/loc/lithuanian.json"
+    },
+    {
+      "hash": "sha256-LMO4fq5S5yeBXliBIUwtD6XE1CmKqQLOKA7zcexzRzI=",
+      "url": "data/1.0.17/loc/norwegian.json"
+    },
+    {
+      "hash": "sha256-Z6wc8Iw6zPyJci9dKw4tJYQWW067qtmQuLr03ZouQ1Y=",
+      "url": "data/1.0.17/loc/polish.json"
+    },
+    {
+      "hash": "sha256-5fIgxhvbgGJx3COF/KrWPfALI/XmdQxBZDF6pomRWp0=",
+      "url": "data/1.0.17/loc/portuguese_brazilian.json"
+    },
+    {
+      "hash": "sha256-1pT7SS5sixp9x97BPk1PYeCcu7Hr3ajX4V59I0NxioM=",
+      "url": "data/1.0.17/loc/portuguese_european.json"
+    },
+    {
+      "hash": "sha256-gwVob0IooP56w7Qx+N3LX1C8TfC3z8cNg5I586gNY/s=",
+      "url": "data/1.0.17/loc/romanian.json"
+    },
+    {
+      "hash": "sha256-V/+mlwTWi3ny+MAtJfLrcTSftSyI8QhBIraC7yvQHKA=",
+      "url": "data/1.0.17/loc/russian.json"
+    },
+    {
+      "hash": "sha256-xO6LhJe+cqrLfIuVrimTtD94+mnN4lMzF2qOSOX1qTU=",
+      "url": "data/1.0.17/loc/slovak.json"
+    },
+    {
+      "hash": "sha256-Cuqjhm05FeVpZgV+zoC805oleiJAjUBXKTm29wXISig=",
+      "url": "data/1.0.17/loc/spanish.json"
+    },
+    {
+      "hash": "sha256-KV0P3iU90MTb4fZCE0gTZAAladFTvWLraaAmLF1kYR8=",
+      "url": "data/1.0.17/loc/swedish.json"
+    },
+    {
+      "hash": "sha256-s1NbOFGa9lBCHg6OW5MsSP+mMh0oYgz8lFht/N1z1Lc=",
+      "url": "data/1.0.17/loc/thai.json"
+    },
+    {
+      "hash": "sha256-b/Yam7nuQDt8mDmdUef7X1CkTK++2jMiejvBDH2mSRo=",
+      "url": "data/1.0.17/loc/turkish.json"
+    },
+    {
+      "hash": "sha256-2gui3ug9C56Uqc3CRq/WIuGFeZRDG/QRZGTBJBJKQj0=",
+      "url": "data/1.0.17/loc/ukrainian.json"
+    },
+    {
+      "hash": "sha256-1P0xnoUpG7jEQhPlftQ1WR6LU/6Xtk1iPd87c8k5eko=",
       "url": "data/versions.json"
     },
     {
@@ -570,7 +702,7 @@ self.assetsManifest = {
       "url": "icon.svg"
     },
     {
-      "hash": "sha256-efb83GKQ/JdCVIiorTbDGJ+jvUcxYjJv6am02PU4ETc=",
+      "hash": "sha256-5nj5SJES8MzPbORs/Qa5Oa3B90Zfy5ngfo/8vSaSUPk=",
       "url": "index.html"
     },
     {
