@@ -162,6 +162,133 @@
     display: block;
 }
 
+.inventory-grid.editable .inventory-cell, .editable {
+    cursor: pointer;
+}
+
+    .inventory-grid.editable .inventory-cell:hover, .editable:hover {
+        outline: 1px dashed var(--mud-palette-warning);
+    }
+
+.edit-bar, .edit-panel {
+    border-color: var(--mud-palette-warning) !important;
+}
+
+.edit-change-list {
+    margin: 0;
+    padding-left: 1.5em;
+    font-size: 0.85rem;
+}
+
+.raw-table .raw-actions {
+    white-space: nowrap;
+    width: 1%;
+}
+
+.item-picker {
+    max-height: 55vh;
+    overflow-y: auto;
+}
+
+.item-picker-group {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 6px 2px 4px;
+    font-weight: 600;
+    color: var(--mud-palette-primary);
+    background: var(--mud-palette-surface);
+}
+
+.item-picker-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 4px;
+    margin-bottom: 8px;
+}
+
+.item-tile {
+    display: flex;
+    flex-direction: column;
+    padding: 4px 6px;
+    border: 1px solid var(--mud-palette-lines-default);
+    border-radius: 4px;
+    cursor: pointer;
+    min-width: 0;
+}
+
+    .item-tile:hover {
+        border-color: var(--mud-palette-primary);
+        background: rgba(200, 164, 90, 0.08);
+    }
+
+    .item-tile.exists {
+        border-style: dashed;
+        border-color: var(--mud-palette-success);
+    }
+
+    .item-tile.disabled {
+        opacity: 0.45;
+        cursor: default;
+    }
+
+        .item-tile.disabled:hover {
+            border-color: var(--mud-palette-success);
+            background: transparent;
+        }
+
+    .item-tile.custom {
+        border-color: var(--mud-palette-warning);
+    }
+
+.item-tile-name {
+    font-size: 0.8rem;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.item-tile-prefab {
+    font-size: 0.65rem;
+    opacity: 0.6;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Levels a skill's usage counter makes plausible, drawn under the level slider. */
+.skill-range {
+    position: relative;
+    height: 8px;
+    margin-top: 2px;
+    border-radius: 4px;
+    background: var(--mud-palette-action-disabled-background);
+}
+
+.skill-range-band {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border-radius: 4px;
+    background: var(--mud-palette-success);
+    opacity: 0.7;
+}
+
+.skill-range-marker {
+    position: absolute;
+    top: -3px;
+    width: 3px;
+    height: 14px;
+    margin-left: -1px;
+    border-radius: 1px;
+    background: var(--mud-palette-primary);
+}
+
+    .skill-range-marker.out {
+        background: var(--mud-palette-warning);
+    }
+
 .summary-ring {
     position: relative;
     width: 70px;

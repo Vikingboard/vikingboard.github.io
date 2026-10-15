@@ -1,4 +1,4 @@
-/* Manifest version: bwpZhbXU */
+/* Manifest version: tG9JqjiX */
 // Published service worker: caches the app for offline use. A new deploy changes service-worker-assets.js, which makes the
 // browser install a new worker; it waits until the page asks it to take over (see js/pwa.js).
 self.importScripts('./service-worker-assets.js');
