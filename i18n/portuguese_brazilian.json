@@ -317,6 +317,14 @@
   "details.notYet": "Ainda não",
   "details.killsOnly": "Somente abates {0}",
 
+  "materials.toggle": "Mostrar materiais",
+  "materials.summary": "Materiais para os {0} itens ainda não fabricados",
+  "materials.assumption": "Uma fabricação por item na qualidade 1. Ingredientes fabricados entram com seus próprios materiais; um item fabricado para esta lista é reutilizado quando outra receita precisa dele. O combustível queimado pela fundição de gelo e pelo forno durante o preparo está incluído; fogueiras sob estações de cozinha não.",
+  "materials.none": "Todos os itens foram fabricados.",
+  "materials.crafted": "Ingredientes fabricados",
+  "materials.base": "Materiais básicos",
+  "materials.yield": "rende {0}",
+
   "note.TreeTypePickupQuirk": "As contagens por tipo de árvore excedem suas mortes por árvores ({0}). Um bug nos dados do jogo faz com que coletar cardos, vaga-lumes, cristais de caverna, pingentes de núcleo gélido e sementes de couve conte como TreeBirch.",
 
   "char.noData": "Este save não tem dados de personagem legíveis.",

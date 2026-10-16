@@ -317,6 +317,14 @@
   "details.notYet": "Not yet",
   "details.killsOnly": "{0} kills only",
 
+  "materials.toggle": "Show materials",
+  "materials.summary": "Materials for the {0} items not crafted yet",
+  "materials.assumption": "One craft per item at quality 1. Crafted ingredients are added with their own materials; an item crafted for this list is reused when another recipe needs it. Fuel burnt by the Frost Foundry and the oven while cooking is included; fires under cooking stations are not.",
+  "materials.none": "Every item is crafted.",
+  "materials.crafted": "Crafted ingredients",
+  "materials.base": "Base materials",
+  "materials.yield": "makes {0}",
+
   "note.TreeTypePickupQuirk": "Tree-type counts exceed your tree deaths ({0}). A game data bug makes picking Thistle, Glowworms, cave crystals, Frost-core hangers and Kale seeds count as TreeBirch.",
 
   "char.noData": "This save has no readable character data.",

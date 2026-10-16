@@ -317,6 +317,14 @@
   "details.notYet": "Noch nicht",
   "details.killsOnly": "Nur {0}-Kills",
 
+  "materials.toggle": "Materialien anzeigen",
+  "materials.summary": "Materialien für die {0} noch nicht hergestellten Gegenstände",
+  "materials.assumption": "Eine Herstellung pro Gegenstand auf Stufe 1. Hergestellte Zutaten werden mit ihren eigenen Materialien eingerechnet; ein für diese Liste hergestellter Gegenstand wird wiederverwendet, wenn ein anderes Rezept ihn benötigt. Brennstoff, den Frostgießerei und Ofen beim Garen verbrauchen, ist enthalten; Feuer unter Kochstellen nicht.",
+  "materials.none": "Alle Gegenstände sind hergestellt.",
+  "materials.crafted": "Hergestellte Zutaten",
+  "materials.base": "Grundmaterialien",
+  "materials.yield": "ergibt {0}",
+
   "note.TreeTypePickupQuirk": "Die Baumart-Zähler übersteigen deine Tode durch Bäume ({0}). Ein Fehler in den Spieldaten lässt das Pflücken von Disteln, Glühwürmchen, Höhlenkristallen, Frostkern-Hängern und Grünkohlsamen als „TreeBirch“ zählen.",
 
   "char.noData": "Dieser Spielstand enthält keine lesbaren Charakterdaten.",

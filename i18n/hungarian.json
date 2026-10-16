@@ -317,6 +317,14 @@
   "details.notYet": "Még nem",
   "details.killsOnly": "Csak {0} ölések",
 
+  "materials.toggle": "Alapanyagok mutatása",
+  "materials.summary": "Alapanyagok a még el nem készített {0} tárgyhoz",
+  "materials.assumption": "Tárgyanként egy készítés 1-es minőségen. A készítendő összetevők a saját alapanyagaikkal együtt számítanak; a listához elkészített tárgy újra felhasználható, ha egy másik recept igényli. A fagyolvasztó és a sütő által főzés közben elégetett tüzelőanyag benne van; a főzőállomások alatti tűz nincs.",
+  "materials.none": "Minden tárgy elkészült.",
+  "materials.crafted": "Készítendő összetevők",
+  "materials.base": "Alapanyagok",
+  "materials.yield": "{0} darabot ad",
+
   "note.TreeTypePickupQuirk": "A fafajta-számlálók meghaladják a fák általi halálaidat ({0}). Egy játékadat-hiba miatt a bogáncs, a szentjánosbogarak, a barlangi kristályok, a fagymag-függők és a kelmagok leszedése TreeBirch-nek számít.",
 
   "char.noData": "Ez a mentés nem tartalmaz olvasható karakteradatokat.",

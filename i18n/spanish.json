@@ -317,6 +317,14 @@
   "details.notYet": "Aún no",
   "details.killsOnly": "Solo muertes {0}",
 
+  "materials.toggle": "Mostrar materiales",
+  "materials.summary": "Materiales para los {0} objetos aún no fabricados",
+  "materials.assumption": "Una fabricación por objeto con calidad 1. Los ingredientes fabricados se suman con sus propios materiales; un objeto fabricado para esta lista se reutiliza cuando otra receta lo necesita. Se incluye el combustible que la fundición de escarcha y el horno queman al cocinar; los fuegos bajo las estaciones de cocina no.",
+  "materials.none": "Todos los objetos están fabricados.",
+  "materials.crafted": "Ingredientes fabricados",
+  "materials.base": "Materiales básicos",
+  "materials.yield": "produce {0}",
+
   "note.TreeTypePickupQuirk": "Los contadores por tipo de árbol superan tus muertes por árboles ({0}). Un error en los datos del juego hace que recoger cardos, luciérnagas, cristales de cueva, colgantes de núcleo de escarcha y semillas de col cuente como TreeBirch.",
 
   "char.noData": "Esta partida no contiene datos de personaje legibles.",

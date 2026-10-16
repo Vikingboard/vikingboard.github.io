@@ -317,6 +317,14 @@
   "details.notYet": "아직",
   "details.killsOnly": "{0} 처치만",
 
+  "materials.toggle": "재료 표시",
+  "materials.summary": "아직 제작하지 않은 아이템 {0}개에 필요한 재료",
+  "materials.assumption": "아이템마다 품질 1로 한 번 제작한다고 가정합니다. 제작해야 하는 재료는 그 재료까지 포함해 계산하며, 이 목록을 위해 제작한 아이템은 다른 레시피에 필요할 때 다시 사용합니다. 서리 주조소와 오븐이 조리 중 태우는 연료는 포함되지만, 조리대 아래의 불은 포함되지 않습니다.",
+  "materials.none": "모든 아이템을 제작했습니다.",
+  "materials.crafted": "제작할 재료",
+  "materials.base": "기본 재료",
+  "materials.yield": "{0}개 제작",
+
   "note.TreeTypePickupQuirk": "나무 종류별 수치가 나무로 인한 죽음 수({0})를 초과합니다. 게임 데이터 버그로 인해 엉겅퀴, 반딧불이, 동굴 수정, 서리핵 걸이, 케일 씨앗 채집이 TreeBirch로 집계됩니다.",
 
   "char.noData": "이 저장 파일에는 읽을 수 있는 캐릭터 데이터가 없습니다.",

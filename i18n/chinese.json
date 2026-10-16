@@ -317,6 +317,14 @@
   "details.notYet": "尚未",
   "details.killsOnly": "仅限{0}击杀",
 
+  "materials.toggle": "显示材料",
+  "materials.summary": "尚未制作的 {0} 件物品所需材料",
+  "materials.assumption": "每件物品按品质 1 制作一次。需要制作的原料会连同其自身材料一起计算；为此列表制作的物品在其他配方需要时会被重复利用。已计入霜冻铸造炉和烤炉烹饪时消耗的燃料；未计入烹饪台下的火。",
+  "materials.none": "所有物品均已制作。",
+  "materials.crafted": "需制作的原料",
+  "materials.base": "基础材料",
+  "materials.yield": "产出 {0}",
+
   "note.TreeTypePickupQuirk": "树种计数超过了您被树砸死的次数（{0}）。由于游戏数据错误，采集蓟草、萤火虫、洞穴水晶、霜核吊饰和甘蓝种子会被计为 TreeBirch。",
 
   "char.noData": "此存档没有可读取的角色数据。",

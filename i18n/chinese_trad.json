@@ -317,6 +317,14 @@
   "details.notYet": "尚未",
   "details.killsOnly": "僅限{0}擊殺",
 
+  "materials.toggle": "顯示材料",
+  "materials.summary": "尚未製作的 {0} 件物品所需材料",
+  "materials.assumption": "每件物品按品質 1 製作一次。需要製作的原料會連同其本身材料一起計算；為此清單製作的物品在其他配方需要時會被重複利用。已計入霜凍鑄造爐和烤爐烹飪時消耗的燃料；未計入烹飪台下的火。",
+  "materials.none": "所有物品皆已製作。",
+  "materials.crafted": "需製作的原料",
+  "materials.base": "基礎材料",
+  "materials.yield": "產出 {0}",
+
   "note.TreeTypePickupQuirk": "樹種計數超過您被樹砸死的次數（{0}）。由於遊戲資料錯誤，採集薊草、螢火蟲、洞穴水晶、霜核吊飾和羽衣甘藍種子會被計為 TreeBirch。",
 
   "char.noData": "此存檔沒有可讀取的角色資料。",

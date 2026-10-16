@@ -70,6 +70,42 @@
     vertical-align: middle;
 }
 
+.material-section-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 2px 0;
+    background: none;
+    border: none;
+    font: inherit;
+    font-size: 0.875rem;
+    cursor: pointer;
+}
+
+    .material-section-toggle:hover {
+        color: var(--mud-palette-primary) !important;
+    }
+
+.material-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    column-gap: 24px;
+    font-size: 0.875rem;
+}
+
+    .material-grid .material-cell {
+        display: flex;
+        justify-content: space-between;
+        gap: 8px;
+        border-bottom: 1px solid var(--mud-palette-lines-default);
+        padding: 2px 0;
+    }
+
+        .material-grid .material-cell span:last-child {
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
 .raw-table td, .raw-table th {
     vertical-align: top;
 }

@@ -317,6 +317,14 @@
   "details.notYet": "Henüz değil",
   "details.killsOnly": "Yalnızca {0} öldürmeler",
 
+  "materials.toggle": "Malzemeleri göster",
+  "materials.summary": "Henüz üretilmemiş {0} eşya için malzemeler",
+  "materials.assumption": "Her eşya kalite 1'de bir kez üretilir. Üretilen bileşenler kendi malzemeleriyle birlikte sayılır; bu liste için üretilen bir eşya başka bir tarif ona ihtiyaç duyduğunda yeniden kullanılır. Ayaz dökümhanesi ve fırının pişirme sırasında yaktığı yakıt dahildir; pişirme istasyonlarının altındaki ateş dahil değildir.",
+  "materials.none": "Tüm eşyalar üretildi.",
+  "materials.crafted": "Üretilen bileşenler",
+  "materials.base": "Temel malzemeler",
+  "materials.yield": "{0} adet üretir",
+
   "note.TreeTypePickupQuirk": "Ağaç türü sayaçları, ağaçlardan kaynaklanan ölümlerini ({0}) aşıyor. Bir oyun verisi hatası, devedikeni, ateşböceği, mağara kristali, ayaz çekirdekli asılı süs ve lahana tohumu toplamayı TreeBirch olarak saydırıyor.",
 
   "char.noData": "Bu kayıtta okunabilir karakter verisi yok.",

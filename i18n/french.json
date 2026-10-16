@@ -317,6 +317,14 @@
   "details.notYet": "Pas encore",
   "details.killsOnly": "Éliminations {0} uniquement",
 
+  "materials.toggle": "Afficher les matériaux",
+  "materials.summary": "Matériaux pour les {0} objets pas encore fabriqués",
+  "materials.assumption": "Une fabrication par objet au niveau 1. Les ingrédients fabriqués sont comptés avec leurs propres matériaux ; un objet fabriqué pour cette liste est réutilisé quand une autre recette en a besoin. Le combustible brûlé par la fonderie de givre et le four pendant la cuisson est inclus ; les feux sous les postes de cuisson ne le sont pas.",
+  "materials.none": "Tous les objets sont fabriqués.",
+  "materials.crafted": "Ingrédients fabriqués",
+  "materials.base": "Matériaux de base",
+  "materials.yield": "donne {0}",
+
   "note.TreeTypePickupQuirk": "Les compteurs par type d'arbre dépassent vos morts causées par des arbres ({0}). Un bug des données du jeu fait compter la cueillette de chardons, de vers luisants, de cristaux de grotte, de suspensions à cœur de givre et de graines de chou comme TreeBirch.",
 
   "char.noData": "Cette sauvegarde ne contient aucune donnée de personnage lisible.",

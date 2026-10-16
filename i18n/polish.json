@@ -317,6 +317,14 @@
   "details.notYet": "Jeszcze nie",
   "details.killsOnly": "Tylko zabójstwa: {0}",
 
+  "materials.toggle": "Pokaż materiały",
+  "materials.summary": "Materiały na {0} jeszcze niewytworzonych przedmiotów",
+  "materials.assumption": "Jedno wytworzenie na przedmiot, jakość 1. Wytwarzane składniki są liczone razem z ich materiałami; przedmiot wytworzony dla tej listy jest użyty ponownie, gdy potrzebuje go inny przepis. Paliwo spalane podczas gotowania przez mroźną odlewnię i piec jest uwzględnione; ogień pod stanowiskami do gotowania nie.",
+  "materials.none": "Wszystkie przedmioty są wytworzone.",
+  "materials.crafted": "Wytwarzane składniki",
+  "materials.base": "Materiały podstawowe",
+  "materials.yield": "daje {0}",
+
   "note.TreeTypePickupQuirk": "Liczniki rodzajów drzew przekraczają Twoje śmierci od drzew ({0}). Błąd w danych gry sprawia, że zbieranie ostów, świetlików, kryształów jaskiniowych, zawieszek z mroźnym rdzeniem i nasion jarmużu liczy się jako TreeBirch.",
 
   "char.noData": "Ten zapis nie zawiera czytelnych danych postaci.",

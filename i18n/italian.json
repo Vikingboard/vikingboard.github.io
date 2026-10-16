@@ -317,6 +317,14 @@
   "details.notYet": "Non ancora",
   "details.killsOnly": "Solo uccisioni {0}",
 
+  "materials.toggle": "Mostra materiali",
+  "materials.summary": "Materiali per i {0} oggetti non ancora creati",
+  "materials.assumption": "Una creazione per oggetto a qualità 1. Gli ingredienti creati sono conteggiati con i loro materiali; un oggetto creato per questa lista viene riutilizzato quando un'altra ricetta lo richiede. Il combustibile bruciato dalla fonderia del gelo e dal forno durante la cottura è incluso; i fuochi sotto le postazioni di cottura no.",
+  "materials.none": "Tutti gli oggetti sono stati creati.",
+  "materials.crafted": "Ingredienti creati",
+  "materials.base": "Materiali di base",
+  "materials.yield": "produce {0}",
+
   "note.TreeTypePickupQuirk": "I contatori per tipo di albero superano le tue morti causate da alberi ({0}). Un bug nei dati di gioco fa contare come TreeBirch la raccolta di cardi, lucciole, cristalli di caverna, pendenti con nucleo di gelo e semi di cavolo.",
 
   "char.noData": "Questo salvataggio non contiene dati del personaggio leggibili.",
